@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+a{
+    color: blue;
+}
+
+.font{
+    font-size: 13px;
+    display: block;
+}
+
+#container{
+width: 90%;
+margin: auto;
+}
+.search-box{
+    padding:  10px 0px;
+    height: 75px;
+    background:#EEEEEE;
+}
+#box-one{
+background: black;
+width: 40%;
+background: #7EE5DA;
+padding: 10px 0px;
+}
+#box-two{
+    width: 20%;
+    background:#70CCC2;
+    padding: 6px;
+}
+#box-three{
+    width: 40%;
+    background: #62B3AA;
+}
+.box{
+float: left;
+height: 75px;
+margin-top: 8px;
+border:0.5px solid white;
+
+}
+.font-two{
+    font-size: 13px;
+}
+#copyright{
+    margin-top: 100px;
+}
